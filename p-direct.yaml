@@ -1,10 +1,8 @@
 payload:
-  - DOMAIN-SUFFIX,haidan.cc
-  - DOMAIN-SUFFIX,880912.xyz
-  - DOMAIN-SUFFIX,ptskit.org
   - DOMAIN-KEYWORD,tailscale
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,tailscale.net
+  - DOMAIN-SUFFIX,880912.xyz
   - DOMAIN-SUFFIX,ts.net
   - DOMAIN-SUFFIX,pringsunday.net
   - DOMAIN-SUFFIX,hdhome.org
